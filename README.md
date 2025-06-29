@@ -33,9 +33,9 @@
 - B.Com, Yadava College of Arts & Science, Madurai [2015 – 2018]
 
 ## 📚 Certifications & Learning
-- Introduction to Data Analytics – [Coursera/Udemy/Other]
-- Power BI for Beginners – [Online Platform]
-- SQL for Data Analysis – [Online Platform]
+- Introduction to Data Analytics
+- Power BI for Beginners
+- SQL for Data Analysis
 
 ## 💪 Strengths
 - Quick learner with a passion for technology
@@ -47,7 +47,3 @@
 ## 🌐 Languages
 - Tamil (Native), English (Fluent), Malayalam (Conversational)
 
-## 📝 Personal Details
-- Date of Birth: 07 Nov 1998
-- Gender/Nationality: Male / Indian
-- Marital Status: Single

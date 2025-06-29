@@ -1,4 +1,4 @@
-# 📄 Jayaraj Jayakumar – IT Resume
+# 📄 Jayaraj Jayakumar
 
 **JAYARAJ JAYAKUMAR
 📧 jraj0713j@gmail.com | 📞 +91 ***** ***68
